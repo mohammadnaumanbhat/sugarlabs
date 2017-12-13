@@ -1,2 +1,2 @@
 # sugarlabs
-Hello Sugar Labs
+
